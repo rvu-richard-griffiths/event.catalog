@@ -1,0 +1,20 @@
+# This disables the "Open a blank issue" button to force users to use your templates or support links
+blank_issues_enabled: false
+
+# These links appear at the bottom of the "New Issue" selection page
+contact_links:
+  - name: "❓ Project Support & Questions"
+    url: "https://github.com/YOUR_USER/YOUR_REPO/blob/main/SUPPORT.md"
+    about: "Please read our support guide before opening a technical issue."
+
+  - name: "💬 Community Discussions"
+    url: "https://github.com/YOUR_USER/YOUR_REPO/discussions"
+    about: "Ask questions, share ideas, and show off what you've built."
+
+  - name: "📖 Official Documentation"
+    url: "https://your-docs-site.com"
+    about: "Read the setup guides and API reference."
+
+  - name: "🛡️ Security Vulnerabilities"
+    url: "https://github.com/YOUR_USER/YOUR_REPO/security/policy"
+    about: "Report security markers privately instead of opening a public issue."
